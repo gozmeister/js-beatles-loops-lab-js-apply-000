@@ -26,7 +26,6 @@ function iLoveTheBeatles(number) {
     love.push("I love the Beatles!")
   }
   while (i < (15 - number)) {
-    love.push("I love the Beatles!")
     i++
   }
   return love
