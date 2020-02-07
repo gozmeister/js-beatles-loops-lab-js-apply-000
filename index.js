@@ -30,18 +30,3 @@ function iLoveTheBeatles(number) {
   }
   return love
 }
-
-var musicians = [
-  "John Lennon",
-  "Ringo Starr"]
-  
-  var instruments = [
-    "guitar",
-    "drums"]
-    
-  var jLFacts = 
-  ["He is dead",
-  "He was in the Beatles"]
-    
-
-console.log(iLoveTheBeatles(15))
